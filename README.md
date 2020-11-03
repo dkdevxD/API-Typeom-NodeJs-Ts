@@ -1,1 +1,3 @@
-# CRUD_TYPEORM_TS_EXPRESS
+# Introductory training to Typeorm
+
+ - Just a training project =)
